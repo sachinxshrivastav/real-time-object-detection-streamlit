@@ -1,0 +1,9 @@
+aiortc==1.5.0
+av==10.0.0
+matplotlib==3.5.3
+numpy==1.21.5
+opencv_python_headless==4.8.0.74
+pydub==0.25.1
+streamlit==1.20.0
+streamlit_webrtc==0.45.1
+typing_extensions==4.7.1
